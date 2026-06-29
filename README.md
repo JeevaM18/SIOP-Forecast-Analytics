@@ -1,11 +1,11 @@
-# 🏥 S&OP Forecast Analytics Dashboard
+#  S&OP Forecast Analytics Dashboard
 
 > **Power BI Business Intelligence Project**\
 > **Internship Submission -- Smith & Nephew Healthcare**
 
 ------------------------------------------------------------------------
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an end-to-end **Sales & Operations Planning (S&OP)
 Forecast Analytics Dashboard** developed using **Microsoft Power BI**.
@@ -27,7 +27,7 @@ lifecycle:
 
 ------------------------------------------------------------------------
 
-## 🎯 Business Problem
+## Business Problem
 
 S&OP teams generate monthly forecast snapshots. Every planning cycle
 produces a new forecast version. Business users need to compare the
@@ -43,7 +43,7 @@ Key questions answered:
 
 ------------------------------------------------------------------------
 
-## 🧩 Dataset
+##  Dataset
 
 The solution combines two source datasets.
 
@@ -78,7 +78,7 @@ Important fields
 
 ------------------------------------------------------------------------
 
-## ⚙️ Power Query Workflow
+##  Power Query Workflow
 
 ### Step 1
 
@@ -138,17 +138,14 @@ Final table
 
 ------------------------------------------------------------------------
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 ### Executive Overview
 
-```{=html}
 <p align="center">
-```
-`<img src="Screenshots/Executive Overview.png" width="900"/>`{=html}
-```{=html}
+  <img src="Screenshots/Executive Overview.png" width="850"/>
 </p>
-```
+
 Shows executive KPIs:
 
 -   Revenue Actual
@@ -172,20 +169,14 @@ Allows senior management to monitor planning performance from one page.
 
 ### Revenue Analysis
 
-```{=html}
 <p align="center">
-```
-`<img src="Screenshots/Revenue Analysis_1.png" width="900"/>`{=html}
-```{=html}
+  <img src="Screenshots/Revenue Analysis_1.png" width="850"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="Screenshots/Revenue Analysis_2.png" width="900"/>`{=html}
-```{=html}
+  <img src="Screenshots/Revenue Analysis_2.png" width="850"/>
 </p>
-```
+
 Provides revenue insights by
 
 -   Country
@@ -205,20 +196,14 @@ Highlights
 
 ### Forecast Performance
 
-```{=html}
 <p align="center">
-```
-`<img src="Screenshots/Forecast Performance_1.png" width="900"/>`{=html}
-```{=html}
+  <img src="Screenshots/Forecast Performance_1.png" width="850"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="Screenshots/Forecast Performance_2.png" width="900"/>`{=html}
-```{=html}
+  <img src="Screenshots/Forecast Performance_2.png" width="850"/>
 </p>
-```
+
 KPIs
 
 -   Forecast Accuracy
@@ -236,13 +221,14 @@ Analysis
 
 ### Forecast Snapshot & Non-Revenue Analysis
 
-```{=html}
 <p align="center">
-```
-`<img src="Screenshots/Forecast Snapshot Analysis.png" width="900"/>`{=html}
-```{=html}
+  <img src="Screenshots/Capex & Non-Revenue Analysis_1.png" width="850"/>
 </p>
-```
+
+<p align="center">
+  <img src="Screenshots/Capex & Non-Revenue Analysis_2.png" width="850"/>
+</p>
+
 Includes
 
 -   Capex Forecast
@@ -255,7 +241,7 @@ Includes
 
 ------------------------------------------------------------------------
 
-## 🧮 DAX Measures
+##  DAX Measures
 
 -   Total Revenue Actual
 -   Total Revenue Forecast
@@ -272,7 +258,7 @@ planners.
 
 ------------------------------------------------------------------------
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ``` text
 SIOP-Forecast-Analytics/
@@ -288,7 +274,7 @@ SIOP-Forecast-Analytics/
 
 ------------------------------------------------------------------------
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 -   Power BI
 -   Power Query
@@ -302,7 +288,7 @@ SIOP-Forecast-Analytics/
 
 ------------------------------------------------------------------------
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 -   AI-assisted forecasting
 -   Power BI Service deployment
@@ -312,7 +298,7 @@ SIOP-Forecast-Analytics/
 
 ------------------------------------------------------------------------
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project demonstrates an end-to-end Business Intelligence workflow
 aligned with Sales & Operations Planning. It transforms raw operational
